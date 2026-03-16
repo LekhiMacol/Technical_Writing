@@ -139,17 +139,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-```
-
----
-
-## 4. Best Practices
-
-- **Be clear and concise** – Avoid jargon; explain things as if the reader is new.
-- **Keep it updated** – Outdated instructions frustrate users.
-- **Use screenshots/demos** – Visuals help people understand the UI or output.
-- **Include a “Getting Started”** – Make it as easy as possible to try your project.
-- **Add a license** – It tells others what they can and cannot do with your code.
-- **Consider accessibility** – Use descriptive link text and alt text for images.
-
-By following these guidelines and using Markdown syntax, you can create a README that is both professional and user‑friendly.
